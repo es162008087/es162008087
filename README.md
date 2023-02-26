@@ -8,4 +8,4 @@ Me interesa vivir la vida al máximo y eso significa aceptar retos que impliquen
 
 En esta ocasión, quiero compartir información respecto al proyecto que estoy llevando a cabo para comparar algoritmos de aprendizaje automático para la detección de spam:
 
-<iframe src="https://toriz.net/spam/" width="100%" height="900" title="Detección de Spam mediante aprendizaje automático"></iframe>
+<iframe src="https://toriz.net/spam/" width="100%" height="500" title="Detección de Spam mediante aprendizaje automático"></iframe>
